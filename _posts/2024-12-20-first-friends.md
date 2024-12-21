@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Friend
+title: First Friends
 ---
 
 Today, we welcomed our first inhabitant: Helga the Huntress, the inaugural character in what will become a vibrant community.
