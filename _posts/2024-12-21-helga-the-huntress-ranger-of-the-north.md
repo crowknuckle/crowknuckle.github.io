@@ -1,4 +1,7 @@
-# The Rangers of the North
+---
+layout: post
+title: Helga the Huntress, Ranger of the North
+---
 
 Every world has its stories. Today, we're pulling back the curtain on one of Pyria's most intriguing cultures: the Rangers of the Frozen Wilds.
 
