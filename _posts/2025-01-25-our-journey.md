@@ -19,5 +19,7 @@ Our Final Sprint: Building a Universe Together ✨
 This isn't just game development. This is us, creating a universe we'd want to play in—together.
 
 *Onward to adventure!*
+
 Kay & Ele
+
 **Crowknuckle Studios**
