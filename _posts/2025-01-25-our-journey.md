@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Weaving Code and Dreams: Our Pyria Journey
+title: Weaving Code and Dreams - Our Pyria Journey
 ---
 
 Tonight, in the quiet corners of our evening, between our day jobs and life's responsibilities, Pyria took another step from imagination into reality.
