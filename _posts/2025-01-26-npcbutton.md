@@ -1,4 +1,7 @@
-Ancient Hunters of The North - Building Pyria's Legends
+---
+layout: post
+title: Ancient Hunters of The North - Building Pyria's Legends
+---
 
 Today we're excited to share more about the mysterious creatures that stalk Pyria's frozen wastes. While catching up from the holiday season, we've been quietly crafting some of our most ambitious features yet.
 
@@ -18,5 +21,5 @@ Kay & Ele
 Crowknuckle Studios
 
 Written on January 26, 2025
-	Posted the next day… 
+	Posted the next day...
     
