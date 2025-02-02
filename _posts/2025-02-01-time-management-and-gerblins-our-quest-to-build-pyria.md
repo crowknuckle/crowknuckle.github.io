@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Time Management & Gerblins: Our Quest to Build Pyria
+title: Time Management & Gerblins - Our Quest to Build Pyria
 ---
 
 
@@ -14,17 +14,12 @@ Behind the scenes, Kay has been hard at work on the technical side of things, bu
 
 In between the game progress, we've also been juggling other projects and responsibilities. Life doesn't stop for game development, right? This week has been full of important milestones and moments:
 
-	•	The Half -Way Mark (January 27)! We honored it by taking our office photos. Coming soon! 
-
-	•	Lunar New Year (January 28) was a time for us to celebrate with family, drawing inspiration from the beauty of the real world and bringing it into Pyria.
-
-	•	Game Time (January 29) kept us engaged and inspired. We even took cues from The Sims when Kay developed a new tool for building structures in Pyria, just for Ele, who loves to play it.	
-
-	•	Keeping Space (January 30) is a mentality we both strive to maintain.  Ele brought a little tidiness to our workspace, which—trust us—makes a huge difference in our creative flow. 
-
-	•	Logo Design (January 31) has been a creative outlet for both of us. Our game's visual identity is starting to take shape! 
-
-	•	Gerblins (February 1) finally came to life! These bad boys have been waiting around to make their debut since the holidays. We are so stoked to get battle up and running next!
+* **The Half -Way Mark** (January 27)! We honored it by taking our office photos. Coming soon! 
+* **Lunar New Year** (January 28) was a time for us to celebrate with family, drawing inspiration from the beauty of the real world and bringing it into Pyria.
+* **Game Time** (January 29) kept us engaged and inspired. We even took cues from The Sims when Kay developed a new tool for building structures in Pyria, just for Ele, who loves to play it.	
+* **Keeping Space** (January 30) is a mentality we both strive to maintain.  Ele brought a little tidiness to our workspace, which—trust us—makes a huge difference in our creative flow. 
+* **Logo Design** (January 31) has been a creative outlet for both of us. Our game's visual identity is starting to take shape! 
+* **Gerblins** (February 1) finally came to life! These bad boys have been waiting around to make their debut since the holidays. We are so stoked to get battle up and running next!
 
 And yes, time management has been on our minds, especially with so much to juggle. Ele's been working on documentation and organizing our processes to keep everything running smoothly. With only 40 days left, it's crucial to stay on top of things and be as efficient as possible. But we also believe in quality over quantity—there's a lot more we could be sharing, but we'd rather show you our best work when it's ready.
 
