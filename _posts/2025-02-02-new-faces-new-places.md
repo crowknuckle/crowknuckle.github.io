@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New Faces, New Places: Pyria’s Latest Updates!
+title: New Faces, New Places & Pyria’s Latest Updates!
 ---
 
 *February 2, 2025*
