@@ -3,8 +3,6 @@ layout: post
 title: New Faces, New Places & Pyria’s Latest Updates!
 ---
 
-*February 2, 2025*
-
 Fresh developments to share! So much stuff we’re excited about and can’t wait for others to experience. The world of Pyria is expanding, and with every step, it’s feeling more alive and immersive.
 
 **Meet the Travelers’ Rest Family**
@@ -32,3 +30,5 @@ Onward to adventure!
 Kay & Ele
 
 Crowknuckle Studios
+
+*February 2, 2025*
