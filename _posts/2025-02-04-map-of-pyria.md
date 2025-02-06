@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Wednesday, Another Day in the Map of Pyria
+title: Another Day in the Map of Pyria
 ---
 
 It was a productive and exciting day, though it was a bit of a whirlwind with Ele’s birthday celebration and party prep happening alongside work and game development! We’re getting ready for a weekend of fun, but the progress never stops in the world of Pyria. Especially since this weekend will be our first playtest with family and friends!
