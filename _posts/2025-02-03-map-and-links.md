@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Pyria's Map nad Map Links
+title: Pyria's Map and Map Links
 ---
 
 **Another Day, Another Step Closer to Pyria!**
