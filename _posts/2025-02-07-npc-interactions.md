@@ -1,8 +1,8 @@
 ---
 layout: post
-title: NPC Chat
+title: NPC Interactions
 ---
-Hey everyone, it’s Kay and Ele here with another little update on the ever-growing world of Pyria! It’s been a long week,, but we’re excited to share some of the magic we’ve been working on!
+Hey everyone, it’s Kay and Ele here with another little update on the ever-growing world of Pyria! It’s been a long week, but we’re excited to share some of the magic we’ve been working on!
 
 **NPCs are Ready to Chat**
 
