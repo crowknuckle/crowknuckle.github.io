@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Cinderhorde Rising: A Day of Lore & Dungeons!
+title: Cinderhorde Rising - A Day of Lore & Dungeons!
 ---
 **Cinderhorde Rising: A Day of Lore & Dungeons!**
 
